@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\ignac\Desktop\UCM\1\PROYECTOS Visual\DOMINOs\Domino3 diferentes versiones\VERSION FINAL\Domino3Final\Domino3Hotfixes\Source.cpp(128,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\ignac\Desktop\UCM\1\PROYECTOS Visual\DOMINOs\Domino3 diferentes versiones\VERSION FINAL\Domino3Final\Domino3Hotfixes\Source.cpp(948,20): warning C4018: '<=': no coinciden signed/unsigned
+C:\Users\ignac\Desktop\UCM\1\PROYECTOS Visual\DOMINOs\Domino3 diferentes versiones\VERSION FINAL\Domino3Final\Domino3Hotfixes\Source.cpp(956,20): warning C4018: '<=': no coinciden signed/unsigned
+  Domino3Hotfixes.vcxproj -> C:\Users\ignac\Desktop\UCM\1\PROYECTOS Visual\DOMINOs\Domino3 diferentes versiones\VERSION FINAL\Domino3Final\Debug\Domino3Hotfixes.exe
